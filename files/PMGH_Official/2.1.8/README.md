@@ -1,4 +1,4 @@
-# PHEx 2.1.7 Official
+# PHEx 2.1.8 Official
 
 ## Fixed Issues
 - Fixed in 2.1.5: redirectorDomain was changed to `prodigyhacking.com` because `prodigyhacking.ml` was no longer owned by PMGH, and was changed to `prodigyhacking.com`.
